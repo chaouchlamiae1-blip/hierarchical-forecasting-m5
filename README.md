@@ -22,4 +22,9 @@ Claude (Anthropic) utilisé pour le débogage du code.
 Toutes les décisions méthodologiques restent humaines.
 
 ### Auteurs
-- Lamiae Chaouch
+- Lamiaa Chaouch
+- Nada Amaachou
+- Saad El Amraoui El Idrissi
+
+### Encadrant
+- Yassine Tabaa, PhD, Ing — FSJESTe, Universite Abdelmalek Essaadi
